@@ -9,6 +9,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-bottom: 15px;
 }
 ul{
     display: flex;
@@ -22,6 +23,7 @@ ul li {
 a{
     text-decoration: none;
     color: #333;
+    border-bottom:  1px solid #333;
 }
 
 .container{
