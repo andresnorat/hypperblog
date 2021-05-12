@@ -1,0 +1,22 @@
+*{
+    font-family: 'Arial';
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding: 2%;
+    border: 1px solid #333;
+    margin: 0 auto;
+    width: 90%;
+    text-align: start;
+}
+
+footer{
+    margin-top: 15px;
+    text-align: center;
+}
