@@ -1,5 +1,7 @@
 *{
     font-family: 'Arial';
+    margin: 0px;
+    padding: 0px;
 }
 
 header {
@@ -32,6 +34,12 @@ a{
 }
 
 footer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    color: white;
+    height: 60px;
+    width: 100%;
     margin-top: 15px;
-    text-align: center;
 }
