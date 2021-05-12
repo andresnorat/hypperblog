@@ -5,7 +5,21 @@
 header {
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+ul{
+    display: flex;
+}
+
+ul li {
+    margin-right: 15px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
 }
 
 .container{
